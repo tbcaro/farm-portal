@@ -1,7 +1,7 @@
 # Farm Portal
 
 # To Run
-- Clone via HTTPS: ```git clone https://gitlab.com/CIS375/farmPortal.git``` or SSH: ```git clone git@gitlab.com:CIS375/farmPortal.git```
+- Clone repo
 - Import Solution into Visual Studio
 - Build/Run Solution
 
