@@ -1,4 +1,4 @@
-# Farm Portal
+# Farm Portal - CIS 375 Assignment (Software Engineering)
 
 # To Run
 - Clone repo
